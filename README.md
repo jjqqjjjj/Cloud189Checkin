@@ -1,6 +1,6 @@
 # Cloud189Checkin
 
-天翼网盘自动签到（随机容量) 和抽奖（三次，每次 50M，共 150M）获取空间，家庭空间签到（随机容量）。
+天翼网盘自动签到（随机容量) 和抽奖（两次，每次 50M，共 150M）获取空间，家庭空间签到（随机容量）。
 
 # 重要说明！！！
 
@@ -19,6 +19,11 @@
 ### Fork 此仓库
 
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/fork.png)
+
+### 设置工作流权限
+将Settings -> Actions -> Workflow permissions 改成 Read and write permissions
+![image](https://github.com/user-attachments/assets/28d27a78-73f2-489e-aa7e-cac87c0fc509)
+
 
 ### 设置账号密码
 
